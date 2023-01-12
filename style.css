@@ -171,3 +171,9 @@ button.second-su {
     border-radius: 6px;
     padding: 4px 24px;
 }
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #F9FAF8;
+    padding: 32px;
+}
