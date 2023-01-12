@@ -93,7 +93,7 @@ img {
     font-size: 36px;
     color: #1F2937;
     font-weight: bolder;
-    margin-bottom: 60px;
+    margin-bottom: 48px;
 }
 
 .cards{
@@ -128,4 +128,46 @@ img {
     font-weight: 100;
     color: #1F2937;
     max-width: 51%;
+}
+.quote-author{
+    text-align: right;
+    color: black;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 800;
+    margin: 0 24px;
+}
+.fourth {
+    padding: 48px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rectangle {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882fb;
+    color: #E5E7EB;
+    padding: 24px 48px;
+    border-radius: 4px;
+    max-width: 60%;
+    flex: auto;
+}
+p.title {
+    margin-bottom: 0;
+    font-size: 18px;
+    font-weight: 800;
+}
+p.description {
+    margin-top: 0;
+}
+button.second-su {
+    background-color: #3882fb;
+    font-weight: 800;
+    font-size: 16px;
+    color: #E5E7EB;
+    border: 3px solid #E5E7EB;
+    border-radius: 6px;
+    padding: 4px 24px;
 }
